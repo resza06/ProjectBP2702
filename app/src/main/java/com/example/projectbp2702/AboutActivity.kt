@@ -13,7 +13,7 @@ class AboutActivity : AppCompatActivity() {
 
         val imgCall:ImageView = findViewById(R.id.imageViewCall)
         imgCall.setOnClickListener(){
-            val callIntent:Intent = Uri.parse()
+           // val callIntent:Intent = Uri.parse()
         }
     }
 }
